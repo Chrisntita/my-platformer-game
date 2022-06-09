@@ -9,3 +9,7 @@ the is to make a snake game,the snake eats the eyes and gets longer(like any sna
 ## Controles
 
 Use the arrows to move around
+### screenshots
+
+![Title screen](https://raw.githubusercontent.com/Chrisntita/my-platformer-game/main/screen_shot/Capture.PNG)
+![Title screen](https://raw.githubusercontent.com/Chrisntita/my-platformer-game/main/screen_shot/dead.PNG)
