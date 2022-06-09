@@ -3,7 +3,7 @@
 
 # Goal 
 
-the is to make a snake game,the snake eats the eyes and gets longer(like any snake game) however you should avoid the Bombs,once u eat that its game over
+the goal is to make a snake game,the snake eats the eyes and gets longer(like any snake game) however you should avoid the Bombs,once u eat that its game over
 
 ## Controles
 
